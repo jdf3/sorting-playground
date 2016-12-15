@@ -1,0 +1,1 @@
+I've abandoned this, as it became clear during my implementation of quicksort that there was no reasonable way to implement in-place sorting in python without getting fancier than i wanted to get with my types.
